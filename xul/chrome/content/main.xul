@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="chrome://kuntroller/content/style.css" type="text/css"?>
+
+<window id="main" title="Kuntroller" width="300" height="300" onload="kunstrukt();"
+        xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+
+  <script type="application/javascript" src="chrome://kuntroller/content/jade.js"/>
+  <script type="application/javascript" src="chrome://kuntroller/content/runtime.js"/>
+  <script type="application/javascript" src="chrome://kuntroller/content/main.js"/>
+
+  <box id="kuntainer" />
+  
+</window>
