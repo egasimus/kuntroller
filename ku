@@ -1,2 +1,2 @@
 #!/bin/sh
-xulrunner kuntroller/application.ini
+xulrunner `dirname $0`/kuntroller/application.ini

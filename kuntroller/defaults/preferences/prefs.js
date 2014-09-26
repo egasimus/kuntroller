@@ -1,4 +1,4 @@
-pref('toolkit.defaultChromeURI', 'chrome://kuntroller/content/main.xul');
+pref('toolkit.defaultChromeURI', 'chrome://ku/content/main.xul');
 pref("browser.dom.window.dump.enabled", true);
 pref("javascript.options.showInConsole", true);
 pref("javascript.options.strict", true);
